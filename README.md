@@ -3,7 +3,7 @@
 テキストデータの正確性は、部によって異なる。おおよその目安は以下の通り。<br>
 ○正確性　高<br>
   CHIBU-1.txt CHIBU-2.txt CHIBU-3.txt SAIJIBU.txt SYORYOBU.txt TENBU.txt<br>
-○正確性　中Mbr>
+○正確性　中<br>
   DOBUTUBU.txt HOGIBU.txt HOROKUBU.txt INSYOKUBU.txt JINBU-1.txt JINBU-2.txt KIYOBU-1.txt KIYOBU-2.txt SEIMEIBU.txt<br>
   SYOKUBUTUBU-1.txt SYOKUBUTUBU-2.txt TEIOBU.txt<br>
 ○正確性　低<br>
