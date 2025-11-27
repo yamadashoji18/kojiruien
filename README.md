@@ -13,5 +13,5 @@
 ○shikibetsu_raw<br>
   識別タグ付き元データが入っている。<br>
   タグの仕様は Tag_Format.pdf を参照。<br>
-  外字は<tmc code="ra_ins002401"/>の形式で記述されている。<br>
+  外字は&lt;tmc code="ra_ins002401"/&gt;の形式で記述されている。<br>
   その外字画像は、 https://ys.nichibun.ac.jp/kojiruien/image/gaiji/ra_ins002401.gif にある。<br>
